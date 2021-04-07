@@ -1,1 +1,0 @@
-startDomainAdminServer -domain $DOMAIN_NAME -server adminServer -f $ENCODE_FILE  -cachelogin

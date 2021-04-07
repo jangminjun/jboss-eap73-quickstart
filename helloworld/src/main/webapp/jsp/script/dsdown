@@ -1,1 +1,0 @@
-jeusadmin -host $DAS_URL  -f $ENCODE_FILE local-shutdown -cachelogin
