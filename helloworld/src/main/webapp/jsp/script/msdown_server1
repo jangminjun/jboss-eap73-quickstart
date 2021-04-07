@@ -1,0 +1,1 @@
+jeusadmin -host `hostname`:10010 -domain $DOMAIN_NAME -f $ENCODE_FILE -cachelogin "local-shutdown -to 120"

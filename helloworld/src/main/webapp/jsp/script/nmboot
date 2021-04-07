@@ -1,0 +1,1 @@
+nohup startNodeManager > $JEUS_LOG_HOME/nodeManager/nm.log &
