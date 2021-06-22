@@ -1,3 +1,5 @@
+package org.jboss.as.quickstarts.helloworld;
+
 @Named
 public class TestCacheService {
 
